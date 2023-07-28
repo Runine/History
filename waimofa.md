@@ -1,47 +1,44 @@
 
-====================================
- =       更新时间：2023-07-28       =
-====================================
-
+更新时间：2023-07-28  
 
 ## 最新订阅连接
 复制以下链接到代理客户端添加订阅即可（请选择对应客户端）
-
+  
 支持Clash for Android 和 Windows、Mac OS
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=clash
-
+  
 支持苹果用户 Shadowrocket (小飞机)
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=shadowrocket
-
+  
 通用支持以下全部客户端
 https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e2199580a
-
+  
 --------------------
-
+  
 ## 代理客户端：
 Clash for Windows 客户端下载链接
 https://bitznetuk.com/download/cfw-1926.exe
-
+  
 Clash for Windows 使用教程：
 1.下载完成后，我们先解压，电脑没有安装解压软件的，自行下载一个解压软件
 2.解压完成后，右键以管理员身份运行 "Clash for Windows.exe"
 3.复制上方最新订阅连接，在Clash配置页面 → 粘贴连接 → 点击下载按钮
 4.代理页面 → 选择节点 → 常规页面 → 开启 "系统代理" 就可以开始上网冲浪了
-
-
+  
+  
 Clash for Android 客户端下载链接
 https://ghproxy.com/https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.3/cfa-2.5.3-foss-universal-release.apk
-
+  
 配置教程：
 1.点击 [配置] 按钮进行订阅，进入创建配置界面。
 2.点击 [从URL导入] 配置文件, 复制上方最新订阅连接, 在 "URL" 处粘贴订阅链接, 名称随意填写, 然后点 "保存" 按钮
 3.保存好订阅链接后, 返回到配置文件列表页面, 并单击选中刚刚保存的配置文件, 使其生效
 4.回到主界面后, 点击 "启动" 按钮, 就可以开始上网冲浪了
-
-
+  
+  
 ClashX for MacOS 客户端下载链接
 https://bitznetuk.com/download/ClashX-1940.dmg
-
+  
 配置教程：
 1.下载后运行 dmg 文件, 手动将安装包拖入「应用程序」文件夹中安装
 2.首次使用 ClashX 时, macOS 会提醒你此应用来自未知开发者, 请允许打开此应用
@@ -49,9 +46,9 @@ ClashX 首次运行会提示是否安装帮助程序 (Helper), 此帮助程序�
 3.安装完成后, 点击状态栏 ClashX 图标 → 配置 → 托管配置 → 点击 管理 添加上方最新订阅连接
 4.订阅添加成功后, 点击菜单栏上的 ClashX 图标, 可以看到订阅节点信息
 5.点击 "设置为系统代理" 就可以开始上网冲浪了
- 
+  
 --------------------
-
+  
 **苹果手机用户**
 安装教程：
 注：若你已经安装 Shadowrocket 请跳过此步骤
@@ -60,7 +57,7 @@ ClashX 首次运行会提示是否安装帮助程序 (Helper), 此帮助程序�
 账号：suyue_12362@163.com密码：Dn112211
 3.登陆完成，搜索 "Shadowrocket" 下载安装APP
 4.退出账号，登回自己的苹果账号
-
+  
 配置教程：
 1.在手机界面中找到并运行Shadowrocket，点击右上角的 ➕ 号图标
 2.点击"类型" →选择"Subscribe"，选择后会自动返回上一页
@@ -68,9 +65,9 @@ ClashX 首次运行会提示是否安装帮助程序 (Helper), 此帮助程序�
 4.点击 "设置" → 选择"订阅" → 开启 "打开时更新" 和 "自动后台更新" 两项
 5.点击 "首页" → 选择想要使用的节点 → 开启代理（小飞机图标开启）
 6.最后就可以开始上网冲浪
-
+  
 --------------------
-
+  
 ## 常见问题
 怎么设置好了仍然不能翻墙？
 1.请自行排查你的网络环境，可能是网络环境出现了情况。
