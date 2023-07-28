@@ -1,5 +1,12 @@
+
+*************************************
+*       更新时间：2023-07-28       *
+*************************************
+
+
 ## 最新订阅连接
 复制以下链接到代理客户端添加订阅即可（请选择对应客户端）
+
 支持Clash for Android 和 Windows、Mac OS
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=clash
 
