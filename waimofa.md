@@ -2,10 +2,10 @@
 更新时间：2023-07-28  
 
 # 最新订阅连接
-支持Clash for Android 和 Windows、Mac OS
+支持 Clash 全平台（WIN/Mac/安卓）
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=clash
   
-支持苹果用户 Shadowrocket (小飞机)
+支持 Shadowrocket | 小火箭 (苹果ISO用户)
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=shadowrocket
   
 支持所有代理客户端协议（通用）
