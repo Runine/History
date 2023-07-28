@@ -2,16 +2,16 @@
 更新时间：2023-07-28  
 
 # 最新订阅连接
-支持 Clash 全平台（WIN/Mac/安卓）
+## 支持 Clash 全平台（WIN/Mac/安卓）
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=clash
   
-支持 Shadowrocket | 小火箭 (苹果ISO用户)
+## 支持 Shadowrocket | 小火箭 (苹果iOS用户)
 https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=shadowrocket
   
-支持所有代理客户端协议（通用）
+## 支持所有代理客户端协议（通用）
 https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e2199580a
 
-复制以上链接到代理客户端添加订阅即可（请选择对应客户端订阅链接）
+注：复制以上链接到代理客户端添加订阅即可（请选择对应客户端订阅链接）
   
 --------------------
   
