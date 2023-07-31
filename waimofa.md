@@ -1,5 +1,5 @@
 
-更新时间：2023-07-28  
+更新时间：2023-07-31  
 
 # 最新订阅连接
 ## 支持 Clash 全平台（WIN/Mac/安卓）
@@ -17,7 +17,7 @@ https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e219958
   
 # 代理客户端：
 ## Clash for Windows 客户端下载链接
-https://bitznetuk.com/download/cfw-1926.exe
+https://macace.lanzouj.com/b0131b6cf 提取码：5wy6
   
 ### Clash for Windows 配置教程：
 1.下载完成后，我们先解压，电脑没有安装解压软件的，自行下载一个解压软件
