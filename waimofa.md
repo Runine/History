@@ -1,12 +1,12 @@
 
-更新时间：2023-07-31  
+更新时间：2023-08.08(23:35)
 
 # 最新订阅连接
 ## 支持 Clash 全平台（WIN/Mac/安卓）
-https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=clash
+https://api1.cherrylink.me/sub?target=clash&filename=CherryLink&url=https://cherryvpn.net/link/qaEwQRkxwJJfXb30?sub=2
   
 ## 支持 Shadowrocket | 小火箭 (苹果iOS用户)
-https://huchuo.cc/api/v1/client/subscribe?token=ca1407a430a2b4c836e0ec5df28e8be0&flag=shadowrocket
+https://api1.cherrylink.me/sub?target=ss&url=https://cherryvpn.net/link/qaEwQRkxwJJfXb30?sub=2
   
 ## 支持所有代理客户端协议（通用）
 https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e2199580a
