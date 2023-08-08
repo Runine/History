@@ -17,7 +17,7 @@ https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e219958
   
 # 代理客户端：
 ## Clash for Windows 客户端下载链接
-https://macace.lanzouj.com/b0131b6cf 提取码：5wy6
+https://ghproxy.com/https://github.com/cherrylink/Web/releases/download/Clash/Clash.for.Windows-0.20.17-win.zip
   
 ### Clash for Windows 配置教程：
 1.下载完成后，我们先解压，电脑没有安装解压软件的，自行下载一个解压软件
