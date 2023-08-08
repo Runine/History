@@ -52,7 +52,13 @@ ClashX 首次运行会提示是否安装帮助程序 (Helper), 此帮助程序�
 注：若你已经安装 Shadowrocket 请跳过此步骤
 1.安装 Shadowrocket (小火箭) 应用
 2.在App Store应用商店中退出你的当前账号，登录以下账号（切记只能在应用商店登录）
-最新美区小火箭内购账号：（账号：suyue_12362@163.com密码：Dn112211）
+
+最新美区小火箭内购账号：
+账号：ndqgght@hotmail.com
+密码：MeIRm4K15f
+账号：qkntsfvgqm@outlook.com
+密码：Dp37URgNtP
+
 3.登陆完成，搜索 "Shadowrocket" 下载安装APP
 4.退出账号，登回自己的苹果账号
   
