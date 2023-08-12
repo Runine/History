@@ -1,20 +1,24 @@
 
-更新时间：2023-08.08(23:35)
+更新时间：2023-08.13
 
 # 最新订阅连接
-## 支持 Clash 全平台（WIN/Mac/安卓）
+## 支持 Clash 客户端 全平台（WIN/Mac/Android）
 https://api1.cherrylink.me/sub?target=clash&filename=CherryLink&url=https://cherryvpn.net/link/qaEwQRkxwJJfXb30?sub=2
   
-## 支持 Shadowrocket | 小火箭 (苹果iOS用户)
+## 支持 Shadowrocket 客户端 (苹果iOS用户)
 https://api1.cherrylink.me/sub?target=ss&url=https://cherryvpn.net/link/qaEwQRkxwJJfXb30?sub=2
   
-## 支持所有代理客户端协议（通用）
+## 支持所有客户端（通用）
+https://bigairport.party/api/v1/client/subscribe?token=85691b187c3ac9fec18f8ce847b84780
 https://dengta3.com/api/v1/client/subscribe?token=90c72cef6fe926b82b63fd0e2199580a
 
-注：复制以上链接到代理客户端添加订阅即可（请选择对应客户端订阅链接）
+## 注意：
+以上链接均可使用，复制以上链接到代理客户端添加订阅即可（*请下载对应客户端和对应客户端订阅链接）
+通用代表支持所有常用代理客户端
   
 --------------------
-  
+
+# 客户端下载链接 + 使用教程
 # 代理客户端：
 ## Clash for Windows 客户端下载链接
 https://ghproxy.com/https://github.com/cherrylink/Web/releases/download/Clash/Clash.for.Windows-0.20.17-win.zip
